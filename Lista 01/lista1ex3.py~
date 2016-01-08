@@ -1,7 +1,0 @@
-import time, datetime
-
-ts = time.time()
-print "Tempo em segundos: %f" % ts
-
-st = datetime.datetime.fromtimestamp(ts).strftime('%Y-%m-%d %H:%M:%S')
-print st

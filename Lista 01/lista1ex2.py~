@@ -1,5 +1,0 @@
-print 'Convert value in meters to milimeters'
-m = float(raw_input('Enter value in meters:'))
-mm = m/1000
-print('Value in meters: %f') % (m)
-print('Value in milimeters: %f') % (mm)
